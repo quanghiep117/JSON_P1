@@ -1,0 +1,58 @@
+{
+    "ShoesLover": [
+    
+                {
+                    "ShoesName":"Nike Air Mag",
+                    "ShoesPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Nike%20Air%20Mag.png?raw=true",
+                    "ShoesHype":"Retail: Gift",
+                    "ShoesResell":"Resell: $35,000",
+                    "ShoesSiteUrl":"https://stockx.com/nike-air-mag-back-to-the-future-bttf-2016",
+                    "ShoesDescription":"Original Nike Mag Sells For Over $90,000. There are only a few shoes in sneaker lore that are as mythical as the Nike Mag from Back To The Future II.",
+                    "ShoesColor":"JETSTREAM/WHITE-PALE BLUE",
+                    "ShoesVideo":"https://www.youtube.com/watch?v=NimGxU4Qnhk"
+                },
+                {
+                    "ShoesName":"Afew Asics Gel Lyte III Koi",
+                    "ShoesPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Asics%20Koi.jpg?raw=true",
+                    "ShoesHype":"Retail: $170",
+                    "ShoesResell":"Resell: $750",
+                    "ShoesSiteUrl":"https://www.afew-store.com/en/microsite/afew-x-asics-gel-lyte-iii-koi/",
+                    "ShoesDescription":"The Afew x Asics Gel Lyte III “Koi” represents the History of the Japan Day and features a lot of Details which all tell a certain Story.",
+                    "ShoesColor":"RED/BLACK-WHITE",
+                    "ShoesVideo":"https://www.youtube.com/watch?v=Gjl8kj8_G7Q"
+                },
+                {
+                    "ShoesName":"Nike Dunk Low Pegion",
+                    "ShoesPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Nike%20Dunk%20Pegion.jpeg?raw=true",
+                    "ShoesHype":"Retail: $200",
+                    "ShoesResell":"Resell: 13,500",
+                    "ShoesSiteUrl":"https://stockx.com/nike-dunk-sb-low-staple-nyc-pigeon",
+                    "ShoesDescription":"Nike “Pigeon” is inspired by the city’s ubiquitous bird—was cause for a burgeoning sneaker culture to flood Manhattan’s streets in a lineup so chaotic.",
+                    "ShoesColor":"MEDIUM GREY/WHITE-DARK",
+                    "ShoedVideo":"https://www.youtube.com/watch?v=hcWZixsRiy8",
+                },
+                {
+                    "ShoesName":"Yeezy 700",
+                    "ShoesPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Yeezy%20700.jpeg?raw=true",
+                    "ShoesHype":"Retail: $225",
+                    "ShoesResell":"Resell: $550",
+                    "ShoesSiteUrl":"https://www.flightclub.com/yeezy-boost-700-mgsogr-cwhite-cblack-802501",
+                    "ShoesDescription":"The adidas Yeezy Boost 700 is a sneaker designed by Kanye West and adidas via the Yeezy Supply online store in highly limited quantity.",
+                    "ShoesColor":"SOLID GREY/CHALK WHITE",
+                    "ShoesVideo":"https://www.youtube.com/watch?v=4lYwvw5YB18"
+                },
+                {
+                    "ShoesName":"Nike Jordan 1 Off-White",
+                    "ShoesPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Nike%20Dunk%20Off-White.jpg?raw=true",
+                    "ShoesHype":"Retail: $150",
+                    "ShoesResell":"Resell: $3,400",
+                    "ShoesSiteUrl":"https://stockx.com/air-jordan-1-retro-high-off-white-chicago",
+                    "ShoesDescription":"It marked the first time Virgil Abloh, founder of the Milan-based fashion labled and Jordan Brand had teamed up.",
+                    "ShoesColor":"WHITE/BLACK VARSITY/RED BLACK",
+                    "ShoesVideo":"https://www.youtube.com/watch?v=VEdH5iaNMNo"
+                }
+    ],
+    "Status": "OK"
+}
+
+
